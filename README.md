@@ -1,0 +1,2 @@
+# Frikr
+Python App Example
